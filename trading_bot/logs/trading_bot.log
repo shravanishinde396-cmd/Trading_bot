@@ -1,0 +1,14 @@
+2026-04-21 18:56:21,003 | ERROR | trading_bot | Binance API keys not found in environment variables
+2026-04-21 18:56:21,003 | ERROR | trading_bot | Unexpected error during market order: BINANCE_API_KEY and BINANCE_API_SECRET are required in .env
+2026-04-21 18:56:55,133 | ERROR | trading_bot | Binance API keys not found in environment variables
+2026-04-21 18:56:55,133 | ERROR | trading_bot | Unexpected error during market order: BINANCE_API_KEY and BINANCE_API_SECRET are required in .env
+2026-04-21 19:03:44,385 | ERROR | trading_bot | Binance API keys not found in environment variables
+2026-04-21 19:03:44,385 | ERROR | trading_bot | Unexpected error during market order: BINANCE_API_KEY and BINANCE_API_SECRET are required in .env
+2026-04-21 19:18:10,669 | ERROR | trading_bot | Binance API keys not found in environment variables
+2026-04-21 19:18:10,669 | ERROR | trading_bot | Unexpected error during market order: BINANCE_API_KEY and BINANCE_API_SECRET are required in .env
+2026-04-21 19:20:38,169 | ERROR | trading_bot | Binance API keys not found in environment variables
+2026-04-21 19:20:38,169 | ERROR | trading_bot | Unexpected error during market order: BINANCE_API_KEY and BINANCE_API_SECRET are required in .env
+2026-04-21 19:31:24,690 | INFO | trading_bot | Placing MARKET order: BUY 0.01 BTCUSDT
+2026-04-21 19:31:25,197 | ERROR | trading_bot | Binance API Exception during market order: Margin is insufficient.
+2026-04-21 19:32:20,154 | INFO | trading_bot | Placing MARKET order: BUY 0.01 BTCUSDT
+2026-04-21 19:32:20,654 | INFO | trading_bot | MARKET order placed successfully. Order ID: 13057890604
